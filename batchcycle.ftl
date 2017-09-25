@@ -154,6 +154,7 @@ $(function(){
             }
         });
     });
+	//测试一下.gitignore
 });
 </script>
 </body>
