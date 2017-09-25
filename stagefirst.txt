@@ -2,3 +2,5 @@
 first
 
 //测试一下.gitignore文件
+
+//测试一下新的.gitignore文件

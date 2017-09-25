@@ -159,3 +159,5 @@ $(function(){
 </script>
 </body>
 </html>
+
+//测试新的.gitignore文件
