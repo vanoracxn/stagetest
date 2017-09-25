@@ -1,2 +1,4 @@
 
 first
+
+//测试一下.gitignore文件
