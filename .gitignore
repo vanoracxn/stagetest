@@ -1,2 +1,3 @@
-/mtk/
-!/mtk/stagefirst.txt
+# 忽略ftl文件
+
+*.ftl
