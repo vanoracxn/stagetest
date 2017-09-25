@@ -1,3 +1,4 @@
 # 忽略ftl文件
 
-*.ftl
+*.ftl   # 忽略ftl文件
+! income.ftl   # 除ftl文件
